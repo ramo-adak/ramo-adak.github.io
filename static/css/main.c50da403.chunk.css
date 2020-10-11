@@ -1,0 +1,2 @@
+.news-flex{display:flex;flex-direction:column}.news-flex>.news-card-flex{flex:auto;display:flex;flex-direction:row}.news-card-flex>.news-content{flex-grow:3}.news-card-flex>.news-img{flex-grow:0;padding-right:.5em}body{direction:rtl}.clickable{cursor:pointer}
+/*# sourceMappingURL=main.c50da403.chunk.css.map */
